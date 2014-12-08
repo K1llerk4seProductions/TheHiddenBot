@@ -1,0 +1,15 @@
+##Default Server Config
+nick: k1llerbot
+OAuth: oauth:
+
+autoJoinChannel: k1llerk4se
+
+serverHost: irc.twitch.tv
+serverPort: 6667
+
+useSQLite: false
+
+MySQLHost: localhost
+MySQLTable: mankinibot
+MySQLUserName: 
+MySQLPassword: 
